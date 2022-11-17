@@ -12,4 +12,5 @@ int main(){
     }
   }
   cout << winner << " " << winnerPoints;
+  return 0;
 }
